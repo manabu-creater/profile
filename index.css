@@ -117,5 +117,6 @@ header {
 
 .profile1 p, .profile2 p {
   font-size: 130%;
+  flex-wrap: wrap;
   white-space: nowrap;
 }
