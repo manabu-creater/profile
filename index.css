@@ -127,5 +127,5 @@ header {
   white-space: nowrap;
   text-align: left;
   margin: 0 auto;
-  display: inline-block;
+/*   display: inline-block; */
 }
