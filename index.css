@@ -40,8 +40,8 @@ header {
 
 .images {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* .top-image {
@@ -74,6 +74,16 @@ header {
   margin-top: 10%;
 }
 
+.title1 {
+  height: 20%;
+  margin-bottom: 5%;
+}
+
+.title2 {
+  height: 60px;
+  margin-top: 10%;
+}
+
 .background2 {
   margin-left: 6%;
 }
@@ -81,6 +91,9 @@ header {
 .prof1, .prof3 {
   width: 250px;
   height: 350px;
+}
+
+.prof1, .prof3 {
   margin-left: 5%;
   flex: 0.5;
 }
@@ -95,13 +108,11 @@ header {
   margin-top: 20px;
 }
 
-
 .profile2 {
   margin-top: 40px;
   margin-bottom: 10%;
   text-align: center;
 }
-
 
 .profile2 h2 {
   margin-top: 3%;
@@ -111,12 +122,10 @@ header {
 }
 
 .profile1 p, .profile2 p {
-  font-size: 130%;
-/*   flex-wrap: wrap; */
+  font-size: 150%;
+  flex-wrap: wrap;
   white-space: nowrap;
-  margin-right: 5%;
-  margin: 0 auto;
   text-align: left;
+  margin: 0 auto;
   display: inline-block;
-  
 }
