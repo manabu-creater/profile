@@ -81,15 +81,14 @@ header {
 .prof1, .prof3 {
   width: 250px;
   height: 350px;
-}
-
-.prof1, .prof3 {
   margin-left: 5%;
+  flex: 0.5;
 }
 
 .profile1, .profile3 {
   margin-left: 5%;
   margin-bottom: 10%;
+  flex: 2;
 }
 
 .profile1, .profile3{
