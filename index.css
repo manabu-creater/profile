@@ -18,7 +18,7 @@ ul,li {
 
 header {
   display: flex;
-  width: 1100px;
+  width: 100%;
   height: 75px;
   background-color: #003366;
 }
@@ -111,7 +111,7 @@ header {
 }
 
 .profile1 p, .profile2 p {
-  font-size: 140%;
+  font-size: 130%;
   flex-wrap: wrap;
 /*   white-space: nowrap; */
   margin-right: 5%;
