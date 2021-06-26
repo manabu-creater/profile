@@ -109,7 +109,7 @@ header {
 }
 
 .profile1 p, .profile2 p {
-  font-size: 160%;
+  font-size: 150%;
   flex-wrap: wrap;
 /*   white-space: nowrap; */
   margin-right: 5%;
