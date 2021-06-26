@@ -129,3 +129,7 @@ header {
   margin: 0 auto;
 /*   display: inline-block; */
 }
+
+.profile2 p {
+  text-align: center;
+}
