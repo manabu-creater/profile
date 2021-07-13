@@ -55,3 +55,19 @@ header {
   white-space: nowrap;
   font-size: 170%;
 }
+
+/* レスポンシブ携帯 */
+@media screen and (max-width: 599px) {
+  header {
+    height: 30px;
+  }
+
+  .last p {
+    font-size: 60%;
+  }
+
+  .last h1 {
+    font-size: 120%;
+  }
+
+}
