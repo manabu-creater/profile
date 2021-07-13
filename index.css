@@ -164,7 +164,7 @@ header {
 
   .image1, .image2, .image3, .image4 {
     width: 180px;
-    height: 150px;
+    height: 135px;
     flex-wrap: wrap;
     margin: 5px;
   }
