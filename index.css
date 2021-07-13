@@ -148,3 +148,76 @@ header {
 .profile2 p {
   display: inline-block;
 }
+
+@media screen and (max-width: 599px) {
+  body {
+    font-size: 6px;
+  }
+
+  header {
+    height: 25px; 
+  }
+
+  .main {
+    margin: initial;
+  }
+
+  .image1, .image2, .image3, .image4 {
+    width: 180px;
+    height: 150px;
+    flex-wrap: wrap;
+    margin: 5px;
+  }
+
+  .image1-txt, .image2-txt, .image3-txt, .image4-txt {
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-size: 200%;
+  }
+  
+  .top-wrapper {
+    width: 100%;
+  }
+
+  .background {
+    width: 90%;
+    margin: initial;
+    margin-top: 5%;
+    margin-left: 9%;
+  }
+
+  .background p {
+    margin: initial;
+  }
+
+  .prof1 {
+    width: 150px;
+    height: 200px;
+  }
+
+  .title1, .title2 {
+    height: 25px;
+  }
+
+  .contents p {
+    font-size: 160%;
+  }
+
+  .background2 {
+    margin-bottom: 10%;
+  }
+
+  .profile2 {
+    margin: initial;
+  }
+
+  .profile2 h2 {
+    margin-bottom: 4%;
+    font-size: 200%;
+  }
+  
+  .profile2 p {
+    font-size: 160%;
+  }
+}    
