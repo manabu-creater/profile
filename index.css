@@ -164,7 +164,7 @@ header {
 
   .image1, .image2, .image3, .image4 {
     width: 180px;
-    height: 150px;
+    height: 135px;
     flex-wrap: wrap;
     margin: 5px;
   }
@@ -192,7 +192,7 @@ header {
   }
 
   .prof1 {
-    width: 130px;
+    width: 120px;
     height: 180px;
   }
 
@@ -205,7 +205,7 @@ header {
   }
 
   .contents p {
-    font-size: 140%;
+    font-size: 160%;
   }
 
   .background2 {
@@ -218,10 +218,10 @@ header {
 
   .profile2 h2 {
     margin-bottom: 4%;
-    font-size: 150%;
+    font-size: 180%;
   }
   
   .profile1 p,.profile2 p {
-    font-size: 140%;
+    font-size: 160%;
   }
 }    
